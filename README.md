@@ -8,5 +8,3 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=iilliiilll&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-
-<img src="https://raw.githubusercontent.com/iilliiilll/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
