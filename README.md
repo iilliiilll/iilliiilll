@@ -4,7 +4,7 @@
 Hi!
 <br><br>
 
-##  Skill
+##  Skills
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
